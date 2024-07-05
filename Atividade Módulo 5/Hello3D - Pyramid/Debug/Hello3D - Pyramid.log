@@ -1,0 +1,11 @@
+﻿  Origem.cpp
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(56,19): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(139,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(213,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(241,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(242,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(246,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(247,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(249,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Hello3D - Pyramid\Origem.cpp(250,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Hello3D - Pyramid.vcxproj -> C:\Users\nicko\source\repos\AtividadesCG\Atividade Módulo 4\Debug\Hello3D - Phong.exe
